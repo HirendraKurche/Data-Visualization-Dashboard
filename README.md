@@ -15,7 +15,7 @@ This is a high-performance, real-time data visualization dashboard built with Ne
 
 **📋 See [AUDIT_REPORT.md](./AUDIT_REPORT.md) for detailed deliverables checklist**
 
-![Dashboard Screenshot](https://via.placeholder.com/800x450.png?text=Dashboard+UI+Screenshot)
+![alt text](image.png)
 
 ## 🚀 Getting Started
 
