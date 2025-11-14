@@ -1,6 +1,13 @@
 # Realtime Insights Dashboard
 
-This is a high-performance, real-time data visualization dashboard built with Next.js 14, TypeScript, and the Canvas API. It is designed to render over 10,000 data points at a smooth 60 FPS, demonstrating advanced performance optimization techniques in a React environment.
+This is a high-performance, real-time data visualization dashboard built with Next.js 15, TypeScript, and the Canvas API. It is designed to render over 10,000 data points at a smooth 60 FPS, demonstrating advanced performance optimization techniques in a React environment.
+
+## 🌐 Live Demo
+
+**[View Live Dashboard →](https://data-visualization-dashboard-chi.vercel.app/dashboard)**
+
+[![Deployment Status](https://img.shields.io/badge/vercel-deployed-success)](https://data-visualization-dashboard-chi.vercel.app/dashboard)
+[![GitHub](https://img.shields.io/badge/github-repo-blue)](https://github.com/HirendraKurche/Data-Visualization-Dashboard)
 
 ## 🎯 Assignment Deliverables: 100% Complete
 
@@ -13,9 +20,7 @@ This is a high-performance, real-time data visualization dashboard built with Ne
 - ✅ Virtualized data table
 - ✅ Comprehensive documentation
 
-**📋 See [AUDIT_REPORT.md](./AUDIT_REPORT.md) for detailed deliverables checklist**
-
-![alt text](image.png)
+**📋 All deliverables completed and verified in production**
 
 ## 🚀 Getting Started
 
