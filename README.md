@@ -70,7 +70,7 @@ npm i -g vercel
 vercel --prod
 ```
 
-##  архитектура (Architecture)
+##  Data-Visualization-Dashboard (Architecture)
 
 The application is built using the **Next.js 14 App Router**, leveraging a modern React architecture that emphasizes performance and scalability.
 
